@@ -1,0 +1,22 @@
+:root {
+  /* EXHALE Approved Color Palette (from visual spec) */
+  --exhale-background: #030611;
+  --exhale-bg: #030611;
+  --exhale-surface: #0b1b3d;
+  --exhale-text: #e6e6ff;
+  --exhale-muted: #8e98b0;
+  --exhale-blue: #6b7bff;
+  --exhale-lavender: #a78bfa;
+  --exhale-violet: #7c6e9f;
+  
+  /* Luminous Glows & Borders */
+  --exhale-glow: rgba(167, 139, 250, 0.2);
+  --exhale-blue-glow: rgba(107, 123, 255, 0.25);
+  --exhale-border: rgba(107, 123, 255, 0.25);
+  --exhale-border-hover: rgba(167, 139, 250, 0.45);
+
+  /* Spacing & Easing */
+  --ease-cosmic: cubic-bezier(0.22, 1, 0.36, 1);
+  --duration-drift: 35s;
+  --duration-breathe: 7s;
+}
